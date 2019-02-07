@@ -1,0 +1,9 @@
+{
+    "id": "user",
+    "password": "$1$XfkE8gdJ$yHOYLFfGTHYWTr5pNs5JS0",
+    "uid": "1001",
+    "groups": ["wheel", "dev"],
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClHUqLsExkbdgPKjc+1ZXiVarLadBr75h3l7Nmy/CA90l/6k8mYTJmX8HXFF2CkOImITXNELDkgpVwc4VTODLFxkctTwFtL4ZhXdNnrncYBs0WkjGYcyw7XJReUAbHnI469J9aJU/97xL1jZtwasQ3qY6Oc248gHHxrqbNbmbgSV835FFxD7bmaHtZlDmRJ0N5Q6NPhhaDiWoF13gCq6CQq3WOHkm6lv7CrxVnQLLgjkpXMpC7l2fh9v938omgPmsQnDt0fTHe9d35rYqxS8MGau81MBOJ81hEVFZf4P26SrgFLdTTlUthgL/UISONydmJ9YsnDnOEXuLPx+vzETLL user@cau5tik2.mylabserver.com"
+    ]
+}
